@@ -20,7 +20,7 @@
 
                 <form action="KebiaoServlet" method="post">
                     请输入学号：<input type="text" name="number" value=""></br>
-                    </label> <input type="submit" name="submit" value="登陆">提交</input>
+                    </label> <input type="submit" name="submit" value="提交"></input>
                 </form>
             </fieldset>
 
